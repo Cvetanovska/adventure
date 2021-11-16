@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.14edbe1c.chunk.css",
+    "main.js": "/static/js/main.d7df8c6f.chunk.js",
+    "main.js.map": "/static/js/main.d7df8c6f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bbd0757d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bbd0757d.js.map",
+    "static/js/2.80a06309.chunk.js": "/static/js/2.80a06309.chunk.js",
+    "static/js/2.80a06309.chunk.js.map": "/static/js/2.80a06309.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.14edbe1c.chunk.css.map": "/static/css/main.14edbe1c.chunk.css.map",
+    "static/js/2.80a06309.chunk.js.LICENSE.txt": "/static/js/2.80a06309.chunk.js.LICENSE.txt",
+    "static/media/brod.8831bb39.jpg": "/static/media/brod.8831bb39.jpg",
+    "static/media/kina.18abf675.jpg": "/static/media/kina.18abf675.jpg",
+    "static/media/niagara.00ec9e18.jpg": "/static/media/niagara.00ec9e18.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbd0757d.js",
+    "static/js/2.80a06309.chunk.js",
+    "static/css/main.14edbe1c.chunk.css",
+    "static/js/main.d7df8c6f.chunk.js"
+  ]
+}

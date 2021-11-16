@@ -1,0 +1,45 @@
+.container {
+    background-color: rgb(232, 250, 239);
+    display: flex;
+    padding:10px;
+}
+
+.footer {
+    width: 100%;
+    color: #4a6b53;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding:30px;
+}
+
+.row {
+    display: grid;
+    grid-template-columns: repeat(5,auto);
+    grid-gap: 90px;
+}
+
+.col {
+    display:grid;
+    padding: 50px;
+    cursor: pointer;
+}
+
+h3 {
+   padding: 20px;
+   
+}
+li {
+   margin: 20px;
+
+}
+
+@media all and (max-width: 768px) {
+    .container {
+      flex-direction: column;
+      padding-top: 2rem;
+
+
+    }
+}
+

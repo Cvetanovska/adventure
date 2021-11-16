@@ -1,0 +1,13 @@
+form {
+    width: 100%;
+    height: auto;
+    padding:30px;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    flex-direction: column;
+}
+.kopce {
+    margin:20px auto;
+    padding: 10px;
+}
